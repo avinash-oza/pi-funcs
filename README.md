@@ -1,2 +1,2 @@
 # pi-funcs
-repo to hold general pi functions for senssors
+repo to hold general pi functions for sensors
