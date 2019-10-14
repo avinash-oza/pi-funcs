@@ -1,0 +1,1 @@
+from .funcs import get_ds18b20_sensor
